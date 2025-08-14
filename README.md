@@ -12,9 +12,7 @@ A minimal Python script to generate QR codes from text or URLs and save them as 
 - Python 3.6+
 - [qrcode](https://pypi.org/project/qrcode/) (with Pillow)
 
-## Install dependencies:
+## Install dependencies and run:
 ```bash
-pip install -r requirements.txt
-
-## Run Generator
+pip install -r requirements.txt 
 python qrcodegen.py
