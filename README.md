@@ -1,4 +1,4 @@
-# 📦 QR Code Generator :
+# 📦 QR Code Generator v1.0 :
 
 A minimal Python script to generate QR codes from text or URLs and save them as PNG files in an organized `generated_qr` folder.
 
